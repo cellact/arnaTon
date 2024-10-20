@@ -1,3 +1,8 @@
+
+// Changes in projects-
+// https://github.com/daBatmanCoder/arnacon_shop
+// Arnacon GCP projects
+
 // We added to our project-
 import dotenv from 'dotenv';
 
